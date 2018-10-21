@@ -1,8 +1,9 @@
 import React from 'react';
+import {Link} from 'react-router-dom';
 
-const Nav = () => {
+const Nav = ({isHome}) => {
   return (
-    <div className="header-bottom">
+    <div className={isHome ? "header-bottom": 'header-bottom-2'}>
       <div className="container-fluid">
         <nav className="navbar navbar-default">
           <div className="navbar-header">
@@ -22,21 +23,15 @@ const Nav = () => {
               <ul className="nav navbar-nav">
                 <li className="active"><a className="scroll" href="index.html">Home</a></li>
                 <li><a href="#about" className="scroll hvr-bounce-to-bottom">About</a></li>
-                {/* <li><a href="#services" className="scroll hvr-bounce-to-bottom">Services</a></li>
-                <li><a href="#team" className="scroll hvr-bounce-to-bottom">Team</a></li>
-                <li><a href="#gallery" className="scroll hvr-bounce-to-bottom">Gallery</a></li>
-                <li><a href="#contact" className="scroll hvr-bounce-to-bottom">Contact Us</a></li> */}
+                <li><a href="#fruits" className="scroll hvr-bounce-to-bottom">Fruit collections</a></li>
               </ul>
             </nav>
           </div>
         </nav>
         <div className="head-search">
-          <form action="#" method="post">
-            <div className="formborder">
-              <input type="text" placeholder="Search..." name="Search..." required=""/>
-              <input type="submit" value=""/>
-            </div>
-          </form>
+          <Link to="/food-idea">
+          <button className="btn btn-dark"><b>Get Food Idea</b></button>          
+          </Link>
         </div>
       </div>
     </div>
