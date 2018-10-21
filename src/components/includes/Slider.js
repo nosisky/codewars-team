@@ -2,74 +2,76 @@ import React from 'react';
 
 const Slider = () => {
   return (
-<div class="banner-silder">
-  <div id="JiSlider" class="jislider">
+<div className="banner-silder">
+  <div id="JiSlider" className="jislider">
     <ul>
       <li>
-        <div class="w3layouts-banner-top">
-          <div class="container">
-            <div class="col-md-6 bannerimg">
+        <div className="w3layouts-banner-top">
+          <div className="container">
+            <div className="col-md-6 bannerimg">
             </div>
-            <div class="col-md-6 agileits-banner-info">
-              <h3>Natural & Fresh Fruits Supply</h3>
-              <h3>Quality</h3>
-               <p>Fresh Fruits from our fruit land</p>
-              <div class="more">
-                <a href="#" class="hvr-shutter-in-vertical">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+            <div className="col-md-6 agileits-banner-info">
+              <h3>Confused on what to eat?</h3>
+              <h3 style={{
+                fontSize: 40
+              }}>Need food idea for your special occasion?</h3>
+               <p>Foodcafe got you covered!</p>
+              <div className="more">
+                <a href="#" className="hvr-shutter-in-vertical">Get Food Idea Now<i className="fa fa-long-arrow-right" aria-hidden="true"></i></a>
               </div>
             </div>	
-            <div class="clearfix"></div>
+            <div className="clearfix"></div>
           </div>
         </div>
       </li>
       <li>
-        <div class="w3layouts-banner-top w3layouts-banner-top1">
-          <div class="container">
-            <div class="col-md-6 bannerimg1">
+        <div className="w3layouts-banner-top w3layouts-banner-top1">
+          <div className="container">
+            <div className="col-md-6 bannerimg1">
             </div>
-            <div class="col-md-6 agileits-banner-info">
+            <div className="col-md-6 agileits-banner-info">
               <h3>Affordable Prices, Highest Quality</h3>
               <h3>Products</h3>
                <p>Fresh Fruits from our fruit land</p>
-              <div class="more">
-                <a href="#" class="hvr-shutter-in-vertical">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+              <div className="more">
+                <a href="#" className="hvr-shutter-in-vertical">Read More <i className="fa fa-long-arrow-right" aria-hidden="true"></i></a>
               </div>
             </div>	
-            <div class="clearfix"></div>
+            <div className="clearfix"></div>
           </div>
         </div>
       </li>
       <li>
-        <div class="w3layouts-banner-top w3layouts-banner-top2">
-          <div class="container">
-            <div class="col-md-6 bannerimg2">
+        <div className="w3layouts-banner-top w3layouts-banner-top2">
+          <div className="container">
+            <div className="col-md-6 bannerimg2">
             </div>
-            <div class="col-md-6 agileits-banner-info">
+            <div className="col-md-6 agileits-banner-info">
               <h3>We Have Wide Range Of</h3> 
               <h3>Products</h3>
                <p>Fresh Fruits from our fruit land</p>
-              <div class="more">
-                <a href="#" class="hvr-shutter-in-vertical" data-toggle="modal" data-target="#myModal">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+              <div className="more">
+                <a href="#" className="hvr-shutter-in-vertical" data-toggle="modal" data-target="#myModal">Read More <i className="fa fa-long-arrow-right" aria-hidden="true"></i></a>
               </div>
             </div>	
-            <div class="clearfix"></div>
+            <div className="clearfix"></div>
           </div>
         </div>
       </li>
       <li>
-        <div class="w3layouts-banner-top w3layouts-banner-top3">
-          <div class="container">
-            <div class="col-md-6 bannerimg3">
+        <div className="w3layouts-banner-top w3layouts-banner-top3">
+          <div className="container">
+            <div className="col-md-6 bannerimg3">
             </div>
-            <div class="col-md-6 agileits-banner-info">
+            <div className="col-md-6 agileits-banner-info">
               <h3>We Grow & Sell Organic Food</h3>
               <h3>Collection</h3>
                <p>Fresh Fruits from our fruit land</p>
-              <div class="more">
-                <a href="#" class="hvr-shutter-in-vertical">Read More <i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+              <div className="more">
+                <a href="#" className="hvr-shutter-in-vertical">Read More <i className="fa fa-long-arrow-right" aria-hidden="true"></i></a>
               </div>
             </div>	
-            <div class="clearfix"></div>
+            <div className="clearfix"></div>
           </div>
         </div>
       </li>
