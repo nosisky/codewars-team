@@ -1,0 +1,84 @@
+{
+    "breakfast": [
+        {
+            "name": "Nut Butter, Banana, and Chia Seed Toast",
+            "description": "Try this superfood twist on classic PB and toast with 1/2 a banana (sliced) and a sprinkle of chia, which is packed with vitamins and minerals (like six times more calcium than milk!)."
+        },
+        {
+            "name": "Berry and Yogurt Smoothie",
+            "description": "Here’s a simple and delicious smoothie for the morning rush. Blend frozen fruit (banana and berries work well) with Greek yogurt and a liquid of your choice (milk, juice, coconut water—whatever you like). Freeze overnight and thaw throughout the day to enjoy in the afternoon or blend up in the morning."
+        },
+        {
+            "name": "Savory Oatmeal With an Egg",
+            "description": "Take oatmeal to a whole new level by making it savory. Prepare as usual with milk or water, but add a pinch of salt and pepper instead of any cinnamon or sugar. Then top with an over-easy or poached egg and sprinkle on a little cheese for an extra tasty kick."
+        },
+        {
+            "name": "Quinoa Fruit Salad",
+            "description": "Spice up a plain old fruit cup with a scoop of quinoa. Toss the whole shebang around until the quinoa is evenly distributed. Add a dressing of honey, lime, and basil for a little extra body."
+        },
+        {
+            "name": "Tomato Toast With Macadamia Ricotta",
+            "description": "Here’s a healthier take on a classic breakfast sandwich: Take 2 slices of a hearty whole-grain bread, spread each slice with 1 tablespoon of homemade macadamia ricotta cheese, and sprinkle with shiso or basil, kosher salt, and fresh cracked pepper to taste. Add 1-2 hearty slices of fresh heirloom tomatoes (blotted with paper towel to remove excess liquid) and enjoy."
+        },
+        {
+            "name": "Quinoa and Chia Porridge",
+            "description": "Cooking quinoa in milk (cow, soy, or almond) and adding some sweet spices and fruit makes for a great substitute for classic hot breakfast cereals. Plus, it’s high in protein and essential amino acids like lysine, which is essential for tissue growth and repair. Simply put all the ingredients into a pot and bring to a boil. Then simmer, stir, top with your favorite add-ons, and enjoy!"
+        },
+        {
+            "name": "Avocado Toast With Egg",
+            "description": "Sometimes simple is just better. Top two lightly toasted slices of whole-grain bread with smashed avocado and a sprinkling of salt and pepper. Layer on two sunny-side up eggs for a healthy dose of protein, and you've got a well-rounded breakfast. Stack 'em in a tupperware container for easy transport or cook the yolks a bit more and make the whole thing into a sandwich."
+        },
+        {
+            "name": "Chocolate Quinoa Breakfast Bowl",
+            "description": "Here’s a healthy way to have chocolate for breakfast. A bowlful of quinoa makes for a filling, protein-rich base, and the banana and berries add a few servings of fruit."
+        },
+        {
+            "name": "Overnight Crock-Pot Egg Casserole",
+            "description": "Wake up to a house smelling like sausage and effortlessly put breakfast on your plate, all thanks to the beauty of a slow cooker. Layer the vegetables, sausage, and cheese in the Crock-Pot, then top with a mix of eggs and cream (you'd be fine using regular or nondairy milk too for a lighter option), and you're just one sleep away from a delicious meal."
+        },
+        {
+            "name": "Warm Fruit Bowl",
+            "description": "Craving dessert for breakfast? Or breakfast for dessert? This gluten-free bowl should hit the spot. Simply bake a berry blend in the oven, sprinkle with dark chocolate shavings, and add a cup of milk."
+        },
+        {
+            "name": "Zucchini Bread Oatmeal",
+            "description": "Turn a classic baked loaf into oatmeal with this recipe. Adding shredded zucchini is a great way to fit in an extra serving of veggies. Throw on a handful of toasted walnuts for some added crunch."
+        },
+        {
+            "name": "Egg Breakfast Muffins",
+            "description": "Finally, a muffin without allllll the sugar. These guys are simple to make ahead of time, and last all week. Blend or whisk eggs with spinach, bacon, and cheese, then pour the mixture into muffin tins. Bake for 15-20 minutes before serving or storing in the refrigerator for later."
+        },
+        {
+            "name": "Open-Face Breakfast Sandwich",
+            "description": "Who doesn’t love an egg sandwich? Simply toss arugula with olive oil and lemon juice before frying eggs with a dash of salt and pepper. Place on top of whole-wheat toast layered with ricotta and a sprinkle of Parmigiano-Reggiano cheese. Wrap in foil and enjoy whenever the craving hits!"
+        },
+        {
+            "name": "Peanut Butter and Banana Smoothie",
+            "description": "Smoothies are a perfect on-the-go snack any time of day. Blend frozen bananas, peanut butter, soy milk, Greek yogurt, honey, and a few ice cubes. If this is a morning snack, keep it in a tight-sealing container and throw it in a gym or work bag. For an afternoon boost, prep it the night before and freeze. Remove in the morning, and it will be thawed and ready to enjoy after lunch. Tip: Add a scoop of your favorite chocolate or vanilla protein for an extra protein boost."
+        },
+        {
+            "name": "PB and J Waffle Sandwich",
+            "description": "Try this sweet take on a classic breakfast sandwich the next time you're eating on the go. Prepare a whole-grain toaster waffle and slice in half. Spread with 2 tablespoons nut butter and jelly of your choice, and layer sliced strawberries on top."
+        },
+        {
+            "name": "Sweet Potato and Black Bean Breakfast Burrito",
+            "description": "Breakfast burritos are a great, easy snack to keep on hand. Make a bunch, wrap in foil, and keep in the freezer for whenever the craving hits. Protein from the eggs and black beans keeps you fuller longer, and the sweet potato keeps things interesting."
+        },
+        {
+            "name": "Chocolate Peanut Butter Granola Apple Bites",
+            "description": "This is a perfect pick for apple season. Cut your favorite kind of apple into wedges and scoop nut butter onto each slice. Sprinkle with oats or granola and cinnamon, and drizzle a bit of melted chocolate on top. Wrap up the apple slices in foil or plastic wrap to save for later or enjoy as is."
+        },
+        {
+            "name": "Chocolate Pumpkin Oatmeal",
+            "description": "A heaping dollop of pumpkin puree is a great way to squeeze in an extra dose of veggies. Plus, the super-orange superfood is packed with nutrients and a healthy dose of fiber. This recipe pairs the pumpkin with oats, chia seeds, cocoa, and almond milk for a quick and easy breakfast."
+        },
+        {
+            "name": "Blueberry Almond Overnight Oats",
+            "description": "This is the ultimate busy-bee breakfast. Combine oats, chia seeds, blueberries, vanilla, almond milk, and maple syrup in a sealed container the night before. In the morning, top with slivered almonds and half a sliced banana, and you're ready for breakfast. If you're in the mood for something warm, heat in the microwave for 1-2 minutes."
+        },
+        {
+            "name": "Coconut Yogurt Quinoa Muffins",
+            "description": "By this point, it's probably obvious we think quinoa makes anything better. So when it comes to muffins? It’s a no-brainer. Try these little bites for breakfast or an after-lunch treat."
+        }
+    ]
+}

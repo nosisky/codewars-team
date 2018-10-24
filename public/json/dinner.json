@@ -1,0 +1,98 @@
+{
+    "dinner": [
+        {
+            "name": "Grilled Steak Tortilla Salad",
+            "description": "Satisfy your taco cravings with this salad recipe, then add tortilla slices to the plate when you're done mixing it all together!"
+        },
+        {
+
+            "name": "Hawaiian Tuna Bowl",
+            "description": "This poke bowl only takes 15 minutes to whip up — much faster than it takes to hop on a plane to a tropical island!"
+        },
+        {
+
+            "name": "Roasted Tomato and Chive Pizza",
+            "description": "Pizza night doesn't have to be all sweatpants and regret. Think outside the plain cardboard box and load up the pie with good-for-you veggies."
+        },
+        {
+
+            "name": "Pea Pesto Pappardelle",
+            "description": "Pea Pesto Pappardelle — try saying that five times fast! Oh, and this pasta dish only requires five ingredients."
+        },
+        {
+
+            "name": "Rustic Smoky Glazed Chicken and Veggie Bake",
+            "description": "Spice-rubbed chicken with veggies and potatoes baked 'til golden brown — it sounds like a feast ready to be devoured."
+        },
+        {
+
+            "name": "Citrusy Shrimp-Stuffed Avocados",
+            "description": "All the avocado. None of the carbs. You're welcome."
+        },
+        {
+
+            "name": "Chicken Souvlaki Skewers",
+            "description": "We're making #MediterraneanMonday a thing with these grilled chicken kebabs and garlicky tomatoes."
+        },
+        {
+
+            "name": "Rotisserie Chicken Cobb Salad",
+            "description": "Top a classic salad with an already-cooked rotisserie chicken for a major time-save."
+        },
+        {
+
+            "name": "Grilled Asparagus and Shiitake Tacos",
+            "description": "Let's take Taco Tuesday to the next level, shall we? These beauties are filled to the brim with asparagus, shiitakes and all of the guac."
+        },
+        {
+
+            "name": "Roasted Shrimp and Poblano Salad",
+            "description": "Loaded with fiery shrimp and poblano peppers, this spicy salad is sure to be a hit."
+        },
+        {
+
+            "name": "Crispy Tofu Bowl",
+            "description": "Whether you're a vegan or not, this bowl, loaded with super-carb quinoa, roasted cashews and crispy tofu, is sure to please."
+        },
+        {
+
+            "name": "Roasted Vegetable and Pasta Bake",
+            "description": "A hearty vegetarian dish packed with flavour, this selection of vegetables’butternut squash, asparagus and leeks’is roasted in garlicky olive oil, then tossed with chunky pasta shapes and a cheese sauce."
+        },
+        {
+
+            "name": "Wild-Salmon Cakes with Quinoa Salad",
+            "description": "These salmon cakes are a must-have. And over a bed of fresh greens and quinoa, they make for a show-stopping meal."
+        },
+        {
+
+            "name": "Veggie Lo Mein",
+            "description": "Call in an order to your local Thai place, then get started on our homemade vegan recipe. We bet ours will be ready way before the delivery guy shows up."
+        },
+        {
+
+            "name": "Crunchy Chickpea Kale Caesar",
+            "description": "Crispy, crunchy and oh-so-satisfying, this kale caesar salad is a healthy, hearty dinner for any night of the week."
+        },
+        {
+
+            "name": "Grilled Pork Tenderloin with Grainy Mustard Vinaigrette",
+            "description": "Whole, unprocessed ingredients like kale and plum tomatoes, makes this lean tenderloin a 100% heart-healthy dish."
+        },
+        {
+
+            "name": "Grilled Chicken with Herbed Corn Salsa",
+            "description": "In just 20 minutes' time, this main course filled with fresh ingredients will be all yours."
+        },
+        {
+
+            "name": "Salmon Burgers with Cabbage-Apple Slaw",
+            "description": "With curry powder and an apple, cabbage and cider vinegar slaw, these salmon burgers might just outrank your go-to beef recipe."
+        },
+        {
+
+            "name": "Peanutty Edamame and Noodle Salad",
+            "description": "Stock up on Shirataki noodles stat. The gluten-free, yam-based gems make it possible to have a seriously flavorful, low-calorie dinner ready in 5 minutes."
+        }
+    ]
+}
