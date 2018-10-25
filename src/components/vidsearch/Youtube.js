@@ -3,7 +3,7 @@ import React, {Component} from 'react';
 const API = 'AIzaSyAjb3HIVcI57Cw_mIucJ5jcHmXIBX5fqac'
 const result = 20;
 
-// https://www.googleapis.com/youtube/v3/search?key=AIzaSyAOYG1Ai4mZy6L-ifZgQ8bzS87vA6v3JdA&channelId=UCXgGY0wkgOzynnHvSEVmE3A&part=snippet,id&order=date&maxResults=10
+// https://www.googleapis.com/youtube/v3/search?key=AIzaSyAjb3HIVcI57Cw_mIucJ5jcHmXIBX5fqac&part=snippet,id&order=date&maxResults=10
 
 var finalURL = `https://www.googleapis.com/youtube/v3/search?key=${API}&part=snippet,id&order=date&maxResults=${result}`
 
